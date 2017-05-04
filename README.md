@@ -1,4 +1,4 @@
-Sample Read Me File 
+Sample Read Me File
 Test  
 New12/.@
 
